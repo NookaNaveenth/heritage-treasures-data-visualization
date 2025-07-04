@@ -46,7 +46,7 @@ This project is created for academic and research purposes.
 
 ## 📬 Contact
 For questions, feedback, or collaboration:
-- **Name:** G Navya Sri
-- **Email:** navyasrigude3@gmail.com
-- **GitHub:** https://github.com/Navyasri2005
+- **Name:** Ch. Nooka Naveenth
+- **Email:** chowdarinookanaveenth.22.csd@anits.edu.in
+- **GitHub:** https://github.com/NookaNaveenth
 
